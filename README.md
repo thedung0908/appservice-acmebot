@@ -5,16 +5,16 @@
   Automated ACME SSL/TLS certificates issuer for Azure App Service (Web Apps / Functions / Containers)
 </p>
 <p align="center">
-  <a href="https://github.com/shibayan/appservice-acmebot/actions/workflows/build.yml" rel="nofollow"><img src="https://github.com/shibayan/appservice-acmebot/workflows/Build/badge.svg" alt="Build" style="max-width: 100%;"></a>
-  <a href="https://github.com/shibayan/appservice-acmebot/releases/latest" rel="nofollow"><img src="https://badgen.net/github/release/shibayan/appservice-acmebot" alt="Release" style="max-width: 100%;"></a>
-  <a href="https://github.com/shibayan/appservice-acmebot/stargazers" rel="nofollow"><img src="https://badgen.net/github/stars/shibayan/appservice-acmebot" alt="Stargazers" style="max-width: 100%;"></a>
-  <a href="https://github.com/shibayan/appservice-acmebot/network/members" rel="nofollow"><img src="https://badgen.net/github/forks/shibayan/appservice-acmebot" alt="Forks" style="max-width: 100%;"></a>
-  <a href="https://github.com/shibayan/appservice-acmebot/blob/master/LICENSE"><img src="https://badgen.net/github/license/shibayan/appservice-acmebot" alt="License" style="max-width: 100%;"></a>
-  <a href="https://registry.terraform.io/modules/shibayan/appservice-acmebot/azurerm/latest" rel="nofollow"><img src="https://badgen.net/badge/terraform/registry/5c4ee5" alt="Terraform" style="max-width: 100%;"></a>
+  <a href="https://github.com/thedung0908/appservice-acmebot/actions/workflows/build.yml" rel="nofollow"><img src="https://github.com/thedung0908/appservice-acmebot/workflows/Build/badge.svg" alt="Build" style="max-width: 100%;"></a>
+  <a href="https://github.com/thedung0908/appservice-acmebot/releases/latest" rel="nofollow"><img src="https://badgen.net/github/release/thedung0908/appservice-acmebot" alt="Release" style="max-width: 100%;"></a>
+  <a href="https://github.com/thedung0908/appservice-acmebot/stargazers" rel="nofollow"><img src="https://badgen.net/github/stars/thedung0908/appservice-acmebot" alt="Stargazers" style="max-width: 100%;"></a>
+  <a href="https://github.com/thedung0908/appservice-acmebot/network/members" rel="nofollow"><img src="https://badgen.net/github/forks/thedung0908/appservice-acmebot" alt="Forks" style="max-width: 100%;"></a>
+  <a href="https://github.com/thedung0908/appservice-acmebot/blob/master/LICENSE"><img src="https://badgen.net/github/license/thedung0908/appservice-acmebot" alt="License" style="max-width: 100%;"></a>
+  <a href="https://registry.terraform.io/modules/thedung0908/appservice-acmebot/azurerm/latest" rel="nofollow"><img src="https://badgen.net/badge/terraform/registry/5c4ee5" alt="Terraform" style="max-width: 100%;"></a>
   <br>
-  <a href="https://github.com/shibayan/appservice-acmebot/commits/master" rel="nofollow"><img src="https://badgen.net/github/last-commit/shibayan/appservice-acmebot" alt="Last commit" style="max-width: 100%;"></a>
-  <a href="https://github.com/shibayan/appservice-acmebot/wiki" rel="nofollow"><img src="https://badgen.net/badge/documentation/available/ff7733" alt="Documentation" style="max-width: 100%;"></a>
-  <a href="https://github.com/shibayan/appservice-acmebot/discussions" rel="nofollow"><img src="https://badgen.net/badge/discussions/welcome/ff7733" alt="Discussions" style="max-width: 100%;"></a>
+  <a href="https://github.com/thedung0908/appservice-acmebot/commits/master" rel="nofollow"><img src="https://badgen.net/github/last-commit/thedung0908/appservice-acmebot" alt="Last commit" style="max-width: 100%;"></a>
+  <a href="https://github.com/thedung0908/appservice-acmebot/wiki" rel="nofollow"><img src="https://badgen.net/badge/documentation/available/ff7733" alt="Documentation" style="max-width: 100%;"></a>
+  <a href="https://github.com/thedung0908/appservice-acmebot/discussions" rel="nofollow"><img src="https://badgen.net/badge/discussions/welcome/ff7733" alt="Discussions" style="max-width: 100%;"></a>
 </p>
 
 ## Motivation
@@ -49,9 +49,9 @@ You can add multiple certificates to a single App Service.
 
 | Azure (Public) | Azure China | Azure Government |
 | :---: | :---: | :---: |
-| <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fshibayan%2Fappservice-acmebot%2Fmaster%2Fazuredeploy.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton" /></a> | <a href="https://portal.azure.cn/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fshibayan%2Fappservice-acmebot%2Fmaster%2Fazuredeploy.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton" /></a> | <a href="https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fshibayan%2Fappservice-acmebot%2Fmaster%2Fazuredeploy.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton" /></a> |
+| <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fthedung0908%2Fappservice-acmebot%2Fmaster%2Fazuredeploy.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton" /></a> | <a href="https://portal.azure.cn/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fthedung0908%2Fappservice-acmebot%2Fmaster%2Fazuredeploy.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton" /></a> | <a href="https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fthedung0908%2Fappservice-acmebot%2Fmaster%2Fazuredeploy.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton" /></a> |
 
-Learn more at https://github.com/shibayan/appservice-acmebot/wiki/Getting-Started
+Learn more at https://github.com/thedung0908/appservice-acmebot/wiki/Getting-Started
 
 ## Thanks
 
@@ -61,4 +61,4 @@ Learn more at https://github.com/shibayan/appservice-acmebot/wiki/Getting-Starte
 
 ## License
 
-This project is licensed under the [Apache License 2.0](https://github.com/shibayan/appservice-acmebot/blob/master/LICENSE)
+This project is licensed under the [Apache License 2.0](https://github.com/thedung0908/appservice-acmebot/blob/master/LICENSE)
